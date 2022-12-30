@@ -8,9 +8,8 @@ For undersating the model working and carring out the best accuracy through hype
 
 ## Requirements
 
-streamlit
-scikit-learn
-sklearn
+1. Streamlit
+2. Scikit-learn
 
 ## Installation
 
