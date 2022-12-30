@@ -20,5 +20,5 @@ pip install -r requirements.txt
 ## Demo
 Link:- https://riteshbagdi170-laptop-price-prediction-999.streamlit.app/
 
-![Screenshot (99)](https://user-images.githubusercontent.com/40036155/204283474-2f0c20fb-871b-4fcf-923b-be5e1825f2d2.png)
-![Screenshot (101)](https://user-images.githubusercontent.com/40036155/204284328-8b17e8bf-ca06-44d5-bb4d-e8eb78a9132e.png)
+![Screenshot (104)](https://user-images.githubusercontent.com/40036155/210061397-5040f26d-0a92-4499-ad96-59b2a4960236.png)
+![Screenshot (105)](https://user-images.githubusercontent.com/40036155/210061406-0baa097f-16f3-4ce4-8676-17548466abb8.png)
