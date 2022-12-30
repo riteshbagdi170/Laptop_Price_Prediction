@@ -4,7 +4,7 @@ This is a Streamlit web app which predict the price of the Laptop with an R2scor
 
 ## Motivation
 
-For undersating the model working and carring out the best accuracy through hyperparameter tunning i have used pipeline to evaluate each model accuracy and then distinguish between the best that motivates me to alot.
+For undersating the model working and carring out the best accuracy through hyperparameter tunning i have used pipeline to evaluate each model accuracy and then distinguish between the best algorithms and thats motivates me to alot.
 
 ## Requirements
 
