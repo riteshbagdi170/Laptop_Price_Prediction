@@ -1,6 +1,6 @@
 # Laptop Price Prediction
 
-This is a Streamlit web app which predict the price of the Laptops.
+This is a Streamlit web app which predict the price of the Laptop with an R2score of 0.88.
 
 ## Motivation
 
